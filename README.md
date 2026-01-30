@@ -1,5 +1,8 @@
- # akhileshpandey394
-Profile README for Akhilesh Pandey — B.Tech (AI &amp; ML) | Building production-ready ML pipelines, CV explainability demos, and useful tools for interviews. Resume &amp; contact inside.
+# Hi — I'm Akhilesh Pandey 👋  
+**AI/ML Engineer-in-training (B.Tech — 6th sem)**  
+Building production-ready ML pipelines, explainable CV models, and clean backend services. Open to internships & placements for 2026–27.
+
+**Building production-ready ML pipelines, CV explainability demos, and useful tools for interviews. Resume &amp; contact inside.
 <h1 align="center">Hi 👋, I'm AKHILESH PANDEY</h1>
 <h3 align="center">Profile README for Akhilesh Pandey — B.Tech (AI & ML) | Building production-ready ML pipelines, CV explainability demos, and useful tools for interviews. Resume & contact inside.</h3>
 
@@ -25,9 +28,6 @@ Profile README for Akhilesh Pandey — B.Tech (AI &amp; ML) | Building productio
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-# Hi — I'm Akhilesh Pandey 👋  
-**AI/ML Engineer-in-training (B.Tech — 6th sem)**  
-Building production-ready ML pipelines, explainable CV models, and clean backend services. Open to internships & placements for 2026–27.
 
 ---
 
