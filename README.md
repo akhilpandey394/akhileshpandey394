@@ -39,28 +39,13 @@ Building production-ready ML pipelines, explainable CV models, and clean backend
 🌱 Skills
 - Languages: **Python**, **C++**, SQL
 - ML / DL: PyTorch, TensorFlow, scikit-learn
-- Tools: Docker, FastAPI, GitHub Actions, pandas, NumPy
+- Tools: FastAPI, GitHub Actions, pandas, NumPy
 - Fundamentals: OOP, DBMS, algorithms & data structures
 
-🧩 What you'll find in this repo
-- Short portfolio & links to my best projects (E2E pipeline, CV explainability, NLP demo)
-- Resume (`Resume.pdf`) and contact details
-- Quick TL;DRs for interviewers — run demo in 10s
-
----
-
-## Quick links
-- Portfolio / Website: `<YOUR-PORTFOLIO-URL>`  
-- Resume: `Resume.pdf` (drop the file at repo root)  
-- Contact: `<your.email@example.com>` · LinkedIn: `<https://www.linkedin.com/in/yourprofile>` · GitHub: `https://github.com/akhileshpandey394`
-
----
-
 ## Pinned projects (what to check first)
-1. **E2E-ML-Pipeline** — production-style pipeline with Docker + FastAPI + CI  
-2. **Image-Classifier-Explainability** — CV model with Grad-CAM and demo  
-3. **NLP-FakeNews-Detector** — transformer-based detector with inference API  
-4. **DSA-Toolkit** — clean, categorized DSA solutions in Python & C++
+1. Queuing Models in OPDs / Admission of Patients  
+2. **PDF to Audiobook Converter
+
 
 ---
 
