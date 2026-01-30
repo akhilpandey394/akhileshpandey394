@@ -1,9 +1,6 @@
 
-
-
-**Building production-ready ML pipelines, CV explainability demos, and useful tools for interviews. Resume &amp; contact inside.
 <h1 align="center">Hi 👋, I'm AKHILESH PANDEY</h1>
-<h3 align="center">Profile README for Akhilesh Pandey — B.Tech (AI & ML) | Building production-ready ML pipelines, CV explainability demos, and useful tools for interviews. Resume & contact inside.</h3>
+<h3 align="center"> Akhilesh Pandey — B.Tech (AI & ML) | Building production-ready ML pipelines, CV explainability demos, and useful tools for interviews. Resume & contact inside.</h3>
 
 **AI/ML Engineer-in-training (B.Tech — 6th sem)**  
 Building production-ready ML pipelines, explainable CV models, and clean backend services. Open to internships & placements for 2026–27.
