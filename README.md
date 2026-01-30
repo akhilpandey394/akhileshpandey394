@@ -42,15 +42,4 @@ Building production-ready ML pipelines, explainable CV models, and clean backend
 - Tools: FastAPI, GitHub Actions, pandas, NumPy
 - Fundamentals: OOP, DBMS, algorithms & data structures
 
-## Pinned projects (what to check first)
-1. Queuing Models in OPDs / Admission of Patients  
-2. **PDF to Audiobook Converter
 
-
----
-
-## How to run my demo (10 seconds)
-```bash
-# Clone only the README/profile demo
-git clone https://github.com/akhileshpandey394/akhileshpandey394.git
-# Open README to see demos and links
