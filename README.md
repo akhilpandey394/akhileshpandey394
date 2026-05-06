@@ -36,7 +36,7 @@ Building production-ready ML pipelines, explainable CV models, and clean backend
 - Production tooling: Docker, FastAPI, GitHub Actions, MLflow basics
 
 🌱 Skills
-- Languages: **Python**, **C++**, SQL
+- Languages: **Python**, **C++**, SQL , Flask , Django , HTML , CSS
 - ML / DL: PyTorch, TensorFlow, scikit-learn
 - Tools: FastAPI, GitHub Actions, pandas, NumPy
 - Fundamentals: OOP, DBMS, algorithms & data structures
