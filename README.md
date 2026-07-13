@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm AKHILESH PANDEY</h1>
 <h3 align="center"> Akhilesh Pandey — B.Tech (AI & ML) | Building production-ready ML pipelines, CV explainability demos, and useful tools for interviews. Resume & contact inside.</h3>
 
-**AI/ML Engineer-in-training (B.Tech — 6th sem)**  
+**AI/ML Engineer-in-training (B.Tech — 7th sem)**  
 Building production-ready ML pipelines, explainable CV models, and clean backend services. Open to internships & placements for 2026–27.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshpandey394&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshpandey394" /> </p>
@@ -36,9 +36,11 @@ Building production-ready ML pipelines, explainable CV models, and clean backend
 - Production tooling: Docker, FastAPI, GitHub Actions, MLflow basics
 
 🌱 Skills
-- Languages: **Python**, **C++**, SQL , Flask , Django , HTML , CSS
-- ML / DL: PyTorch, TensorFlow, scikit-learn
-- Tools: FastAPI, GitHub Actions, pandas, NumPy
-- Fundamentals: OOP, DBMS, algorithms & data structures
+Programming Languages: SQL, Python, JavaScript 
+Development: Django, Flask, React.js, FastAPI
+Databases: MySQL, PostgreSQL, 
+IDEs: IntelliJ IDEA, Visual Studio Code
+Testing: Postman, JUnit
+Others: Git, Docker
 
 
